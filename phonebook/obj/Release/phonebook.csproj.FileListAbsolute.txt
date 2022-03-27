@@ -1,0 +1,17 @@
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\bin\Release\phonebook.exe.config
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\bin\Release\phonebook.exe
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\bin\Release\phonebook.pdb
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\bin\Release\Newtonsoft.Json.xml
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.csproj.AssemblyReference.cache
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.auth.resources
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.Phonebook.resources
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.Properties.Resources.resources
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.registration.resources
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.usrs.resources
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.csproj.GenerateResource.cache
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.csproj.CopyComplete
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.exe
+C:\Users\Eversince001\Desktop\ИБ\phonebook\phonebook\obj\Release\phonebook.pdb
